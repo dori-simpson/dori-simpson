@@ -55,3 +55,10 @@ I am always open to collaborating on open-source initiatives, system reliability
 
 
 
+
+---
+
+## 📊 Automated Developer Metrics
+
+![Dori's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dori-simpson&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dori-simpson&layout=compact&theme=dark&hide_border=true&langs_count=6)
